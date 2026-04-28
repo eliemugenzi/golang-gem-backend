@@ -1,4 +1,4 @@
-# Java Gem backend
+# Golang Gem backend
 A simple backend application built in Go and GraphQL
 
 # Features
